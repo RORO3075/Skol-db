@@ -1,6 +1,14 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
 
-Console.WriteLine("Fuck off");
-
+namespace Database
+{
+	class MainClass
+	{
+		public static void Main(string[] args)
+		{
+			
+		}
+	}
+};
 

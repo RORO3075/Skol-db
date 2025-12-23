@@ -2,6 +2,10 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "skol-db", "skol-db\skol-db.csproj", "{43E91276-887A-42C0-98B2-F35AF74E903D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Frontend", "Frontend\Frontend\Frontend.csproj", "{070E8A0F-57D4-44A1-A945-3396A27075D7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Frontend.Client", "Frontend\Frontend.Client\Frontend.Client.csproj", "{1755E084-A629-482D-92CE-6E89CAD20DC1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +16,13 @@ Global
 		{43E91276-887A-42C0-98B2-F35AF74E903D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{43E91276-887A-42C0-98B2-F35AF74E903D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{43E91276-887A-42C0-98B2-F35AF74E903D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{070E8A0F-57D4-44A1-A945-3396A27075D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{070E8A0F-57D4-44A1-A945-3396A27075D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{070E8A0F-57D4-44A1-A945-3396A27075D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{070E8A0F-57D4-44A1-A945-3396A27075D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1755E084-A629-482D-92CE-6E89CAD20DC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1755E084-A629-482D-92CE-6E89CAD20DC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1755E084-A629-482D-92CE-6E89CAD20DC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1755E084-A629-482D-92CE-6E89CAD20DC1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
