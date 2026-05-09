@@ -1,0 +1,11 @@
+@SchoolDB_HostAddress = http://localhost:5075
+
+GET {{SchoolDB_HostAddress}}/todos/
+Accept: application/json
+
+###
+
+GET {{SchoolDB_HostAddress}}/todos/1
+Accept: application/json
+
+###
