@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SchoolDB.Core")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2d95561ad0fd8885cce842df62bd3153e38fb74c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0874f98a294a390314902bcab11db6d5956af0f5")]
 [assembly: System.Reflection.AssemblyProductAttribute("SchoolDB.Core")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SchoolDB.Core")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
