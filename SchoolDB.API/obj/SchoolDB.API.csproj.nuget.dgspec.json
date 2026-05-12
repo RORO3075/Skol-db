@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\projects\\Skol-db\\SchoolDB.API\\SchoolDB.API.csproj": {}
+    "/mnt/work/projects/Skol-db/SchoolDB.API/SchoolDB.API.csproj": {}
   },
   "projects": {
-    "D:\\projects\\Skol-db\\SchoolDB.API\\SchoolDB.API.csproj": {
+    "/mnt/work/projects/Skol-db/SchoolDB.API/SchoolDB.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\projects\\Skol-db\\SchoolDB.API\\SchoolDB.API.csproj",
+        "projectUniqueName": "/mnt/work/projects/Skol-db/SchoolDB.API/SchoolDB.API.csproj",
         "projectName": "SchoolDB.API",
-        "projectPath": "D:\\projects\\Skol-db\\SchoolDB.API\\SchoolDB.API.csproj",
-        "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-        "outputPath": "D:\\projects\\Skol-db\\SchoolDB.API\\obj\\",
+        "projectPath": "/mnt/work/projects/Skol-db/SchoolDB.API/SchoolDB.API.csproj",
+        "packagesPath": "/home/jckawin/.nuget/packages/",
+        "outputPath": "/mnt/work/projects/Skol-db/SchoolDB.API/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/home/jckawin/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
@@ -51,13 +51,13 @@
             "Microsoft.DotNet.ILCompiler": {
               "suppressParent": "All",
               "target": "Package",
-              "version": "[10.0.5, )",
+              "version": "[10.0.7, )",
               "autoReferenced": true
             },
             "Microsoft.NET.ILLink.Tasks": {
               "suppressParent": "All",
               "target": "Package",
-              "version": "[10.0.5, )",
+              "version": "[10.0.7, )",
               "autoReferenced": true
             }
           },
@@ -74,24 +74,20 @@
           "warn": true,
           "downloadDependencies": [
             {
-              "name": "Microsoft.AspNetCore.App.Runtime.win-x64",
-              "version": "[10.0.5, 10.0.5]"
+              "name": "Microsoft.AspNetCore.App.Runtime.linux-x64",
+              "version": "[10.0.7, 10.0.7]"
             },
             {
-              "name": "Microsoft.NETCore.App.Runtime.NativeAOT.win-x64",
-              "version": "[10.0.5, 10.0.5]"
+              "name": "Microsoft.NETCore.App.Runtime.linux-x64",
+              "version": "[10.0.7, 10.0.7]"
             },
             {
-              "name": "Microsoft.NETCore.App.Runtime.win-x64",
-              "version": "[10.0.5, 10.0.5]"
+              "name": "Microsoft.NETCore.App.Runtime.NativeAOT.linux-x64",
+              "version": "[10.0.7, 10.0.7]"
             },
             {
-              "name": "Microsoft.WindowsDesktop.App.Runtime.win-x64",
-              "version": "[10.0.5, 10.0.5]"
-            },
-            {
-              "name": "runtime.win-x64.Microsoft.DotNet.ILCompiler",
-              "version": "[10.0.5, 10.0.5]"
+              "name": "runtime.linux-x64.Microsoft.DotNet.ILCompiler",
+              "version": "[10.0.7, 10.0.7]"
             }
           ],
           "frameworkReferences": {
@@ -102,7 +98,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Users\\Asus\\.dotnet\\sdk\\10.0.201/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "/home/jckawin/.dotnet/sdk/10.0.203/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.AspNetCore": "(,10.0.32767]",
             "Microsoft.AspNetCore.Antiforgery": "(,10.0.32767]",
@@ -520,7 +516,7 @@
         }
       },
       "runtimes": {
-        "win-x64": {
+        "linux-x64": {
           "#import": []
         }
       }

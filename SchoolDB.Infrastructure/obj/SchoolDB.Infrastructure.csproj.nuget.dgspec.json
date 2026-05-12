@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\projects\\Skol-db\\SchoolDB.Infrastructure\\SchoolDB.Infrastructure.csproj": {}
+    "/mnt/work/projects/Skol-db/SchoolDB.Infrastructure/SchoolDB.Infrastructure.csproj": {}
   },
   "projects": {
-    "D:\\projects\\Skol-db\\SchoolDB.Infrastructure\\SchoolDB.Infrastructure.csproj": {
+    "/mnt/work/projects/Skol-db/SchoolDB.Infrastructure/SchoolDB.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\projects\\Skol-db\\SchoolDB.Infrastructure\\SchoolDB.Infrastructure.csproj",
+        "projectUniqueName": "/mnt/work/projects/Skol-db/SchoolDB.Infrastructure/SchoolDB.Infrastructure.csproj",
         "projectName": "SchoolDB.Infrastructure",
-        "projectPath": "D:\\projects\\Skol-db\\SchoolDB.Infrastructure\\SchoolDB.Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-        "outputPath": "D:\\projects\\Skol-db\\SchoolDB.Infrastructure\\obj\\",
+        "projectPath": "/mnt/work/projects/Skol-db/SchoolDB.Infrastructure/SchoolDB.Infrastructure.csproj",
+        "packagesPath": "/home/jckawin/.nuget/packages/",
+        "outputPath": "/mnt/work/projects/Skol-db/SchoolDB.Infrastructure/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/home/jckawin/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
@@ -59,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Users\\Asus\\.dotnet\\sdk\\10.0.201/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "/home/jckawin/.dotnet/sdk/10.0.203/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",
