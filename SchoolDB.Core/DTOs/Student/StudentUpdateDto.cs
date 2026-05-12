@@ -7,5 +7,11 @@
 /// </summary>
 public class StudentUpdateDto
 {
-    
+    public string FirstName { get;  set; }
+    public string LastName { get;  set; }
+    public DateTime DateOfBirth { get; set; }
+    public DateTime EnrollmentDate { get;  set; }
+    public int GradeLevel { get; set; }
+    public string GuardianName { get;  set; }
+    public string GuardianContact { get; set; }
 }
